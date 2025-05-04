@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm Aryan Baria</h1>
 
 <h2 align="center">😄 Welcome to my GitHub profile!</h2>
-### - 🔭 I’m currently working on CurY
-### - 🌱 Learning low-level systems programming
-### - 📫 Reach me at aryanbaria11@gmail.com
-
+<h3>- 🔭 I’m currently working on CurY</h3>
+<h3>- 🌱 Learning low-level systems programming</h3>
+<h3>- 📫 Reach me at aryanbaria11@gmail.com</h3>
 <!--
 **AryanBaria/AryanBaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
