@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Aryan Baria
+
+Welcome to my GitHub profile!
+
+- 🔭 I’m currently working on CurY
+- 🌱 Learning low-level systems programming
+- 📫 Reach me at aryanbaria11@gmail.com
 
 <!--
 **AryanBaria/AryanBaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
