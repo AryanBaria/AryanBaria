@@ -3,7 +3,7 @@
 <h2 align="center">😄 Welcome to my GitHub profile!</h2>
 <h3>- 🔭 I’m currently working on CurY</h3>
 <h3>- 🌱 Learning low-level systems programming</h3>
-<h3>- 📫 Reach me at aryanbaria11@gmail.com</h3>
+<h3>- 📫 Reach me at [aryanbaria11@gmail.com](mailto:aryanbaria11@gmail.com)</h3>
 <!--
 **AryanBaria/AryanBaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
