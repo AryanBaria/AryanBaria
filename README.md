@@ -4,6 +4,14 @@
 <h3>- 🔭 I’m currently working on CurY</h3>
 <h3>- 🌱 Learning low-level systems programming</h3>
 <h3>- 📫 Reach me at <a href="mailto:aryanbaria11@gmail.com">aryanbaria11@gmail.com</a></h3>
+
+## My GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryanBaria&layout=compact)
+
+## My GitLab Profile
+
+[![GitLab Stats](https://gitlab.com/uploads/-/system/project/avatar/yourprojectid/yourimage.png)](https://gitlab.com/AryanBaria)
 <!--
 **AryanBaria/AryanBaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
