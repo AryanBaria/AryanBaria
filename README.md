@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Aryan Baria</h1>
 
-## Welcome to my GitHub profile!
+<h2 align="center">😄 Welcome to my GitHub profile!</h2>
 ### - 🔭 I’m currently working on CurY
 ### - 🌱 Learning low-level systems programming
 ### - 📫 Reach me at aryanbaria11@gmail.com
