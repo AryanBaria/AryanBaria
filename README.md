@@ -12,7 +12,7 @@
 - 🐾 Developed **Virtual Pet Game** – a Java Swing desktop application simulating pet interactions with save/load features and JUnit testing  
 - 🌱 Learning **full-stack development** (React, Node.js, SQL, AWS) and **data-driven system design**
 - 📫 Reach me at [aryanbaria11@gmail.com](mailto:aryanbaria11@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/aryanbaria) • [Portfolio (coming soon)](#)
+- 🌐 [LinkedIn](https://linkedin.com/in/aryanbaria)
 
 ---
 
