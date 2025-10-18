@@ -12,22 +12,13 @@
 - 🐾 Developed **Virtual Pet Game** – a Java Swing desktop application simulating pet interactions with save/load features and JUnit testing  
 - 🌱 Learning **full-stack development** (React, Node.js, SQL, AWS) and **data-driven system design**
 - 📫 Reach me at [aryanbaria11@gmail.com](mailto:aryanbaria11@gmail.com)
-- 🌐 [LinkedIn](https://linkedin.com/in/aryanbaria)
-
----
-
-### 🧩 Tech Stack
-**Languages:** Python, C++, Java, SQL, HTML/CSS, JavaScript (basic), C#, VBA  
-**Frameworks & Tools:** Qt, Node.js, React.js, Azure SQL, Git/GitHub/GitLab, Visual Studio, Power BI, Tableau  
-**Concepts:** Data Analysis, System Integration, Object-Oriented Design, Automation, Backend API Development  
-
----
+- 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/aryanbaria)
 
 ### 🚀 Featured Projects
 | Project | Description | Tech |
 |----------|--------------|------|
-| [**CityShield**](#) | C++/Qt strategy game simulating emergency response using OOP and design patterns. | C++, Qt |
-| [**Cervical Cancer Risk Prediction**](#) | ML model analyzing medical data with scikit-learn; includes model evaluation and optimization. | Python, pandas, scikit-learn |
+| [**CityShield** - In Progress](#) | C++/Qt strategy game simulating emergency response using OOP and design patterns. | C++, Qt |
+| [**Cervical Cancer Risk Prediction** - In Progress](#) | ML model analyzing medical data with scikit-learn; includes model evaluation and optimization. | Python, pandas, scikit-learn |
 | [**Virtual Pet Game**](#) | Java Swing desktop app featuring interactive pet care (feeding, sleep, play) with JSON save/load and JUnit testing. | Java, Swing, JSON |
 | [**Comtrad Product Catalogue**](#) | Full-stack Azure SQL web app for product search, filtering, and dynamic image gallery. | Python, HTML/CSS/JS, SQL |
 
