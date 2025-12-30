@@ -6,10 +6,10 @@
 
 ### 🧠 About Me
 - 💻 Third-year Computer Science student passionate about **software engineering**, **data analytics**, and **AI applications**  
-- 🔭 Currently building:
+- 🔭 Developed:
   - **CityShield** – a C++/Qt strategy simulation applying object-oriented design and design patterns  
   - **Cervical Cancer Risk Prediction** – a Python ML model (scikit-learn, pandas, NumPy) analyzing medical datasets  
-- 🐾 Developed **Virtual Pet Game** – a Java Swing desktop application simulating pet interactions with save/load features and JUnit testing  
+  - **Virtual Pet Game** – a Java Swing desktop application simulating pet interactions with save/load features and JUnit testing  
 - 🌱 Learning **full-stack development** (React, Node.js, SQL, AWS) and **data-driven system design**
 - 📫 Reach me at [aryanbaria11@gmail.com](mailto:aryanbaria11@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/aryanbaria)
