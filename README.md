@@ -13,6 +13,7 @@
 - 🌱 Learning **full-stack development** (React, Node.js, SQL, AWS) and **data-driven system design**
 - 📫 Reach me at [aryanbaria11@gmail.com](mailto:aryanbaria11@gmail.com)
 - 🌐 Connect with me on [LinkedIn](https://linkedin.com/in/aryanbaria)
+- 🌐 View my [Portfolio](https://aryanbaria.github.io/my-portfolio/)
 
 ### 🚀 Featured Works
 | Name | Description | Tech |
